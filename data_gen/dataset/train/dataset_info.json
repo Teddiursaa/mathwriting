@@ -1,0 +1,22 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "input": {
+      "_type": "Image"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "output": {
+      "feature": {
+        "dtype": "null",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
