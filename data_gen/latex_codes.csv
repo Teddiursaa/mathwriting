@@ -1,415 +1,414 @@
-,codes
-0,\bowtie
-1,\mathbb{W}
-2,\pm
-3,\lceil
-4,\top
-5,\sigma
-6,\eta
-7,\leqslant
-8,\wp
-9,\cot
-10,Q
-11,\emptyset
-12,\sec
-13,>
-14,\lor
-15,n
-16,E
-17,k
-18,\gneqq
-19,S
-20,F
-21,\sqcap
-22,\triangle
-23,\nprec
-24,\sqsubseteq
-25,\urcorner
-26,\mathbb{X}
-27,\mapsto
-28,\kappa
-29,\Beta
-30,q
-31,\gneq
-32,\tanh
-33,\supset
-34,\}
-35,\mu
-36,-
-37,\cos
-38,\prec
-39,\triangleq
-40,\lneqq
-41,\smile
-42,\mathbb{R}
-43,\gnsim
-44,\Pi
-45,\Q
-46,\mathbb{S}
-47,\tilde
-48,Y
-49,\Zeta
-50,\vartheta
-51,\lll
-52,\nmid
-53,\{
-54,e
-55,\rho
-56,\ominus
-57,\Tau
-58,\amalg
-59,\nu
-60,\hat
-61,\xi
-62,\overrightarrow{\rm AB}
-63,\overline
-64,)
-65,\omicron
-66,\Re
-67,\iota
-68,\psi
-69,\nabla
-70,\underline
-71,\Xi
-72,3
-73,\Nu
-74,\cap
-75,\succneqq
-76,\prod
-77,5
-78,\ge
-79,\ggg
-80,\partial
-81,o
-82,r
-83,\varphi
-84,\dashv
-85,\longrightarrow
-86,\in
-87,N
-88,B
-89,\mp
-90,\ngeqslant
-91,\Vdash
-92,\nparallel
-93,\Upsilon
-94,\Kappa
-95,\varepsilon
-96,\Rightarrow
-97,\gamma
-98,\varnothing
-99,\operatorname{arsech}
-100,I
-101,\lnsim
-102,\#
-103,i
-104,\triangleright
-105,f
-106,\uplus
-107,","
-108,\Downarrow
-109,\notin
-110,\int
-111,\sin
-112,\diamond
-113,P
-114,\vdots
-115,\dagger
-116,\frac
-117,\not\perp
-118,\propto
-119,\models
-120,\ntriangleleft
-121,\prime
-122,Z
-123,\dot
-124,\mathbb{N}
-125,\operatorname{sech}
-126,\zeta
-127,\longmapsto
-128,\nvDash
-129,\Omicron
-130,\npreceq
-131,\Mu
-132,L
-133,\arccsc
-134,\mathbb{I}
-135,<
-136,\pi
-137,\varrho
-138,\lambda
-139,\arctan
-140,\equiv
-141,\neg
-142,\sum
-143,\sim
-144,\perp
-145,\rightarrow
-146,\tan
-147,.
-148,\triangleleft
-149,T
-150,\oplus
-151,\bullet
-152,\nsubseteqq
-153,\simeq
-154,\gets
-155,\cup
-156,\cdot
-157,\varpi
-158,\rceil
-159,4
-160,\ulcorner
-161,W
-162,\Leftarrow
-163,\Delta
-164,\mathbb{H}
-165,l
-166,\rightleftharpoons
-167,6
-168,\doteq
-169,\eth
-170,\lnapprox
-171,\chi
-172,\sqsupset
-173,p
-174,\gimel
-175,\phi
-176,\gnapprox
-177,w
-178,\mid
-179,\bigtriangleup
-180,\succnapprox
-181,\bigcirc
-182,\wr
-183,\Longrightarrow
-184,\operatorname{arcoth}
-185,G
-186,\Omega
-187,\Z
-188,\ntrianglelefteq
-189,\subsetneqq
-190,\nsupseteq
-191,\lfloor
-192,\nsubseteq
-193,\mathbb{L}
-194,\iint
-195,\varsigma
-196,\Epsilon
-197,H
-198,[
-199,\vdash
-200,\oint
-201,\Box
-202,\sqcup
-203,|
-204,\varsupsetneqq
-205,\iff
-206,\forall
-207,V
-208,\backslash
-209,\Digamma
-210,\leftarrow
-211,\downarrow
-212,\varsupsetneq
-213,\arccos
-214,\Leftrightarrow
-215,\jmath
-216,\ddagger
-217,\Im
-218,\precnapprox
-219,\not\subset
-220,\operatorname{csch}
-221,;
-222,j
-223,\Uparrow
-224,K
-225,\otimes
-226,\lneq
-227,\angle
-228,c
-229,\bigoplus
-230,\star
-231,\digamma
-232,J
-233,M
-234,t
-235,\operatorname{artanh}
-236,\Lambda
-237,d
-238,\land
-239,a
-240,\cong
-241,\parallel
-242,\sqsupseteq
-243,\precnsim
-244,\operatorname{arsinh}
-245,\leftrightarrow
-246,\mathbb{C}
-247,\overline{\rm AB}
-248,:
-249,\supsetneqq
-250,\to
-251,\Updownarrow
-252,\operatorname{arcsch}
-253,\arccot
-254,7
-255,O
-256,\arcsec
-257,\aleph
-258,\nshortmid
-259,\nleq
-260,u
-261,0
-262,\beth
-263,\alpha
-264,\nvdash
-265,\ngtr
-266,\R
-267,\cosh
-268,h
-269,\mathbb{T}
-270,\Eta
-271,x
-272,\mathbb{D}
-273,\tau
-274,\nless
-275,\N
-276,\subsetneq
-277,\frown
-278,\lvertneqq
-279,\&
-280,\gvertneqq
-281,\nsucc
-282,\ncong
-283,\bigwedge
-284,\varsubsetneq
-285,/
-286,D
-287,\succ
-288,\geqslant
-289,\hookrightarrow
-290,\subset
-291,\vee
-292,\Chi
-293,\theta
-294,2
-295,\nleqslant
-296,\Theta
-297,\rangle
-298,\langle
-299,\exists!
-300,\infty
-301,\mathbb{Q}
-302,\nshortparallel
-303,\bigtriangledown
-304,\sqrt
-305,\lrcorner
-306,\nsucceq
-307,\O
-308,\csc
-309,\|
-310,\%
-311,\nsim
-312,\succnsim
-313,\supseteq
-314,\vec
-315,\mathbb{E}
-316,C
-317,\succeq
-318,\exists
-319,9
-320,\coth
-321,v
-322,\asymp
-323,\div
-324,\mathbb{O}
-325,\operatorname{arcosh}
-326,\mathbb{Z}
-327,\times
-328,\sqsubset
-329,\setminus
-330,\geq
-331,A
-332,\preceq
-333,\Rho
-334,\ast
-335,\subseteq
-336,m
-337,\wedge
-338,\bigcap
-339,=
-340,\precneqq
-341,\nsupseteqq
-342,\implies
-343,\supsetneq
-344,\approx
-345,\nleqq
-346,\Sigma
-347,\beta
-348,\square
-349,b
-350,\ni
-351,\llcorner
-352,\Phi
-353,+
-354,\epsilon
-355,X
-356,\le
-357,?
-358,\nVDash
-359,\Gamma
-360,\mathbb{K}
-361,\ell
-362,8
-363,\ngeqq
-364,!
-365,(
-366,1
-367,]
-368,\arcsin
-369,\gg
-370,\Longleftarrow
-371,R
-372,\longleftarrow
-373,\mathbb{P}
-374,\Psi
-375,\oslash
-376,\sinh
-377,g
-378,\Iota
-379,\nVdash
-380,\measuredangle
-381,\bigvee
-382,\C
-383,\rfloor
-384,\updownarrow
-385,\ntrianglerighteq
-386,\odot
-387,\delta
-388,\not\supset
-389,\varkappa
-390,\ngeq
-391,\ntriangleright
-392,y
-393,*
-394,z
-395,\neq
-396,\ll
-397,\upsilon
-398,\nexists
-399,\mathbb{F}
-400,\mathbb{A}
-401,\circ
-402,\bigcup
-403,\varsubsetneqq
-404,\leq
-405,\imath
-406,\uparrow
-407,\bot
-408,U
-409,\ne
-410,\omega
-411,\hbar
-412,\Alpha
-413,s
+Category,Symbol
+Binary Operators,\bowtie
+Binary Operators,\pm
+Binary Operators,\lor
+Binary Operators,\sqcap
+Binary Operators,-
+Binary Operators,\ominus
+Binary Operators,\amalg
+Binary Operators,\cap
+Binary Operators,\mp
+Binary Operators,\triangleright
+Binary Operators,\uplus
+Binary Operators,\triangleleft
+Binary Operators,\oplus
+Binary Operators,\cup
+Binary Operators,\cdot
+Binary Operators,\bigtriangleup
+Binary Operators,\wr
+Binary Operators,\sqcup
+Binary Operators,\otimes
+Binary Operators,\star
+Binary Operators,\land
+Binary Operators,\vee
+Binary Operators,\bigtriangledown
+Binary Operators,\div
+Binary Operators,\times
+Binary Operators,\setminus
+Binary Operators,\ast
+Binary Operators,\wedge
+Binary Operators,+
+Binary Operators,\oslash
+Binary Operators,\odot
+Binary Operators,*
+Binary Operators,\circ
+Blackboard Bold (Set Names),\mathbb{W}
+Blackboard Bold (Set Names),\mathbb{X}
+Blackboard Bold (Set Names),\mathbb{R}
+Blackboard Bold (Set Names),\Q
+Blackboard Bold (Set Names),\mathbb{S}
+Blackboard Bold (Set Names),\mathbb{N}
+Blackboard Bold (Set Names),\mathbb{I}
+Blackboard Bold (Set Names),\mathbb{H}
+Blackboard Bold (Set Names),\Z
+Blackboard Bold (Set Names),\mathbb{L}
+Blackboard Bold (Set Names),\mathbb{C}
+Blackboard Bold (Set Names),\R
+Blackboard Bold (Set Names),\mathbb{T}
+Blackboard Bold (Set Names),\mathbb{D}
+Blackboard Bold (Set Names),\N
+Blackboard Bold (Set Names),\mathbb{Q}
+Blackboard Bold (Set Names),\O
+Blackboard Bold (Set Names),\mathbb{E}
+Blackboard Bold (Set Names),\mathbb{O}
+Blackboard Bold (Set Names),\mathbb{Z}
+Blackboard Bold (Set Names),\mathbb{K}
+Blackboard Bold (Set Names),\mathbb{P}
+Blackboard Bold (Set Names),\C
+Blackboard Bold (Set Names),\mathbb{F}
+Blackboard Bold (Set Names),\mathbb{A}
+Delimiters/Grouping,\lceil
+Delimiters/Grouping,\urcorner
+Delimiters/Grouping,\}
+Delimiters/Grouping,\{
+Delimiters/Grouping,)
+Delimiters/Grouping,\rceil
+Delimiters/Grouping,\ulcorner
+Delimiters/Grouping,\lfloor
+Delimiters/Grouping,[
+Delimiters/Grouping,|
+Delimiters/Grouping,\rangle
+Delimiters/Grouping,\langle
+Delimiters/Grouping,\lrcorner
+Delimiters/Grouping,\|
+Delimiters/Grouping,\llcorner
+Delimiters/Grouping,(
+Delimiters/Grouping,]
+Delimiters/Grouping,\rfloor
+Special Symbols & Constants,\top
+Special Symbols & Constants,\emptyset
+Special Symbols & Constants,\triangle
+Special Symbols & Constants,\nabla
+Special Symbols & Constants,\partial
+Special Symbols & Constants,\varnothing
+Special Symbols & Constants,\diamond
+Special Symbols & Constants,\vdots
+Special Symbols & Constants,\dagger
+Special Symbols & Constants,\neg
+Special Symbols & Constants,\bullet
+Special Symbols & Constants,\bigcirc
+Special Symbols & Constants,\Box
+Special Symbols & Constants,\forall
+Special Symbols & Constants,\ddagger
+Special Symbols & Constants,\angle
+Special Symbols & Constants,\exists!
+Special Symbols & Constants,\infty
+Special Symbols & Constants,\exists
+Special Symbols & Constants,\square
+Special Symbols & Constants,\measuredangle
+Special Symbols & Constants,\bot
+Letters (Variables/Constants),\sigma
+Letters (Variables/Constants),\eta
+Letters (Variables/Constants),\wp
+Letters (Variables/Constants),Q
+Letters (Variables/Constants),n
+Letters (Variables/Constants),E
+Letters (Variables/Constants),k
+Letters (Variables/Constants),S
+Letters (Variables/Constants),F
+Letters (Variables/Constants),\kappa
+Letters (Variables/Constants),\Beta
+Letters (Variables/Constants),q
+Letters (Variables/Constants),\mu
+Letters (Variables/Constants),\Pi
+Letters (Variables/Constants),Y
+Letters (Variables/Constants),\Zeta
+Letters (Variables/Constants),\vartheta
+Letters (Variables/Constants),e
+Letters (Variables/Constants),\rho
+Letters (Variables/Constants),\Tau
+Letters (Variables/Constants),\nu
+Letters (Variables/Constants),\xi
+Letters (Variables/Constants),\omicron
+Letters (Variables/Constants),\iota
+Letters (Variables/Constants),\psi
+Letters (Variables/Constants),\Xi
+Letters (Variables/Constants),\Nu
+Letters (Variables/Constants),o
+Letters (Variables/Constants),r
+Letters (Variables/Constants),\varphi
+Letters (Variables/Constants),N
+Letters (Variables/Constants),B
+Letters (Variables/Constants),\Upsilon
+Letters (Variables/Constants),\Kappa
+Letters (Variables/Constants),\varepsilon
+Letters (Variables/Constants),\gamma
+Letters (Variables/Constants),I
+Letters (Variables/Constants),i
+Letters (Variables/Constants),f
+Letters (Variables/Constants),P
+Letters (Variables/Constants),Z
+Letters (Variables/Constants),\zeta
+Letters (Variables/Constants),\Omicron
+Letters (Variables/Constants),\Mu
+Letters (Variables/Constants),L
+Letters (Variables/Constants),\pi
+Letters (Variables/Constants),\varrho
+Letters (Variables/Constants),\lambda
+Letters (Variables/Constants),T
+Letters (Variables/Constants),\varpi
+Letters (Variables/Constants),W
+Letters (Variables/Constants),\Delta
+Letters (Variables/Constants),l
+Letters (Variables/Constants),\eth
+Letters (Variables/Constants),\chi
+Letters (Variables/Constants),p
+Letters (Variables/Constants),\gimel
+Letters (Variables/Constants),\phi
+Letters (Variables/Constants),w
+Letters (Variables/Constants),G
+Letters (Variables/Constants),\Omega
+Letters (Variables/Constants),\varsigma
+Letters (Variables/Constants),\Epsilon
+Letters (Variables/Constants),H
+Letters (Variables/Constants),V
+Letters (Variables/Constants),\Digamma
+Letters (Variables/Constants),\jmath
+Letters (Variables/Constants),j
+Letters (Variables/Constants),K
+Letters (Variables/Constants),c
+Letters (Variables/Constants),\digamma
+Letters (Variables/Constants),J
+Letters (Variables/Constants),M
+Letters (Variables/Constants),t
+Letters (Variables/Constants),\Lambda
+Letters (Variables/Constants),d
+Letters (Variables/Constants),a
+Letters (Variables/Constants),O
+Letters (Variables/Constants),\aleph
+Letters (Variables/Constants),u
+Letters (Variables/Constants),\beth
+Letters (Variables/Constants),\alpha
+Letters (Variables/Constants),h
+Letters (Variables/Constants),\Eta
+Letters (Variables/Constants),x
+Letters (Variables/Constants),\tau
+Letters (Variables/Constants),D
+Letters (Variables/Constants),\Chi
+Letters (Variables/Constants),\theta
+Letters (Variables/Constants),\Theta
+Letters (Variables/Constants),C
+Letters (Variables/Constants),v
+Letters (Variables/Constants),A
+Letters (Variables/Constants),\Rho
+Letters (Variables/Constants),m
+Letters (Variables/Constants),\Sigma
+Letters (Variables/Constants),\beta
+Letters (Variables/Constants),b
+Letters (Variables/Constants),\Phi
+Letters (Variables/Constants),\epsilon
+Letters (Variables/Constants),X
+Letters (Variables/Constants),\Gamma
+Letters (Variables/Constants),\ell
+Letters (Variables/Constants),R
+Letters (Variables/Constants),\Psi
+Letters (Variables/Constants),g
+Letters (Variables/Constants),\Iota
+Letters (Variables/Constants),\delta
+Letters (Variables/Constants),\varkappa
+Letters (Variables/Constants),y
+Letters (Variables/Constants),z
+Letters (Variables/Constants),\upsilon
+Letters (Variables/Constants),\imath
+Letters (Variables/Constants),U
+Letters (Variables/Constants),\omega
+Letters (Variables/Constants),\hbar
+Letters (Variables/Constants),\Alpha
+Letters (Variables/Constants),s
+Relations,\leqslant
+Relations,>
+Relations,\gneqq
+Relations,\nprec
+Relations,\sqsubseteq
+Relations,\gneq
+Relations,\supset
+Relations,\prec
+Relations,\triangleq
+Relations,\lneqq
+Relations,\smile
+Relations,\gnsim
+Relations,\lll
+Relations,\nmid
+Relations,\succneqq
+Relations,\ge
+Relations,\ggg
+Relations,\dashv
+Relations,\in
+Relations,\ngeqslant
+Relations,\Vdash
+Relations,\nparallel
+Relations,\lnsim
+Relations,\notin
+Relations,\not\perp
+Relations,\propto
+Relations,\models
+Relations,\ntriangleleft
+Relations,\nvDash
+Relations,\npreceq
+Relations,<
+Relations,\equiv
+Relations,\sim
+Relations,\perp
+Relations,\nsubseteqq
+Relations,\simeq
+Relations,\doteq
+Relations,\lnapprox
+Relations,\sqsupset
+Relations,\gnapprox
+Relations,\mid
+Relations,\succnapprox
+Relations,\ntrianglelefteq
+Relations,\subsetneqq
+Relations,\nsupseteq
+Relations,\nsubseteq
+Relations,\vdash
+Relations,\varsupsetneqq
+Relations,\varsupsetneq
+Relations,\precnapprox
+Relations,\not\subset
+Relations,\lneq
+Relations,\cong
+Relations,\parallel
+Relations,\sqsupseteq
+Relations,\precnsim
+Relations,\supsetneqq
+Relations,\nshortmid
+Relations,\nleq
+Relations,\nvdash
+Relations,\ngtr
+Relations,\nless
+Relations,\subsetneq
+Relations,\frown
+Relations,\lvertneqq
+Relations,\gvertneqq
+Relations,\nsucc
+Relations,\ncong
+Relations,\varsubsetneq
+Relations,\succ
+Relations,\geqslant
+Relations,\subset
+Relations,\nleqslant
+Relations,\nshortparallel
+Relations,\nsucceq
+Relations,\nsim
+Relations,\succnsim
+Relations,\supseteq
+Relations,\succeq
+Relations,\asymp
+Relations,\sqsubset
+Relations,\geq
+Relations,\preceq
+Relations,\subseteq
+Relations,=
+Relations,\precneqq
+Relations,\nsupseteqq
+Relations,\supsetneq
+Relations,\approx
+Relations,\nleqq
+Relations,\ni
+Relations,\le
+Relations,\nVDash
+Relations,\ngeqq
+Relations,\gg
+Relations,\nVdash
+Relations,\ntrianglerighteq
+Relations,\not\supset
+Relations,\ngeq
+Relations,\ntriangleright
+Relations,\neq
+Relations,\ll
+Relations,\nexists
+Relations,\varsubsetneqq
+Relations,\leq
+Relations,\ne
+Mathematical Functions & Large Operators,\cot
+Mathematical Functions & Large Operators,\sec
+Mathematical Functions & Large Operators,\tanh
+Mathematical Functions & Large Operators,\cos
+Mathematical Functions & Large Operators,\Re
+Mathematical Functions & Large Operators,\prod
+Mathematical Functions & Large Operators,\operatorname{arsech}
+Mathematical Functions & Large Operators,\int
+Mathematical Functions & Large Operators,\sin
+Mathematical Functions & Large Operators,\frac
+Mathematical Functions & Large Operators,\operatorname{sech}
+Mathematical Functions & Large Operators,\arccsc
+Mathematical Functions & Large Operators,\arctan
+Mathematical Functions & Large Operators,\sum
+Mathematical Functions & Large Operators,\tan
+Mathematical Functions & Large Operators,\operatorname{arcoth}
+Mathematical Functions & Large Operators,\iint
+Mathematical Functions & Large Operators,\oint
+Mathematical Functions & Large Operators,\arccos
+Mathematical Functions & Large Operators,\Im
+Mathematical Functions & Large Operators,\operatorname{csch}
+Mathematical Functions & Large Operators,\bigoplus
+Mathematical Functions & Large Operators,\operatorname{artanh}
+Mathematical Functions & Large Operators,\operatorname{arsinh}
+Mathematical Functions & Large Operators,\operatorname{arcsch}
+Mathematical Functions & Large Operators,\arccot
+Mathematical Functions & Large Operators,\arcsec
+Mathematical Functions & Large Operators,\cosh
+Mathematical Functions & Large Operators,\bigwedge
+Mathematical Functions & Large Operators,\sqrt
+Mathematical Functions & Large Operators,\csc
+Mathematical Functions & Large Operators,\coth
+Mathematical Functions & Large Operators,\operatorname{arcosh}
+Mathematical Functions & Large Operators,\bigcap
+Mathematical Functions & Large Operators,\arcsin
+Mathematical Functions & Large Operators,\sinh
+Mathematical Functions & Large Operators,\bigvee
+Mathematical Functions & Large Operators,\bigcup
+Arrows,\mapsto
+Arrows,\longrightarrow
+Arrows,\Rightarrow
+Arrows,\Downarrow
+Arrows,\longmapsto
+Arrows,\rightarrow
+Arrows,\gets
+Arrows,\Leftarrow
+Arrows,\rightleftharpoons
+Arrows,\Longrightarrow
+Arrows,\iff
+Arrows,\leftarrow
+Arrows,\downarrow
+Arrows,\Leftrightarrow
+Arrows,\Uparrow
+Arrows,\leftrightarrow
+Arrows,\to
+Arrows,\Updownarrow
+Arrows,\hookrightarrow
+Arrows,\implies
+Arrows,\Longleftarrow
+Arrows,\longleftarrow
+Arrows,\updownarrow
+Arrows,\uparrow
+Accents & Modifiers,\tilde
+Accents & Modifiers,\hat
+Accents & Modifiers,\overrightarrow{\rm AB}
+Accents & Modifiers,\overline
+Accents & Modifiers,\underline
+Accents & Modifiers,\prime
+Accents & Modifiers,\dot
+Accents & Modifiers,\overline{\rm AB}
+Accents & Modifiers,\vec
+Numbers,3
+Numbers,5
+Numbers,4
+Numbers,6
+Numbers,7
+Numbers,0
+Numbers,2
+Numbers,9
+Numbers,8
+Numbers,1
+Other Symbols,#
+Other Symbols,\backslash
+Other Symbols,\&
+Other Symbols,/
+Other Symbols,\%
+Other Symbols,?
+Other Symbols,!
+Punctuation,.
+Punctuation,;
+Punctuation,:
