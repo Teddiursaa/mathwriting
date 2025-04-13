@@ -1,8 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1744461260.0335 "f:/mathwriting/test_latex/test.tex" "test.pdf" "test" 1744461261.02926 0
+["pdflatex"] 1744467990.30352 "f:/mathwriting/test_latex/test.tex" "test.pdf" "test" 1744467991.1029 0
   "C:/Users/nguye/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729343809 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/nguye/AppData/Local/MiKTeX/fonts/pk/ljfour/public/mathabx/dpi600/matha10.pk" 1744457977 24548 3539530a12e5537ab9aa53cbe2573bf4 ""
-  "C:/Users/nguye/AppData/Local/MiKTeX/fonts/pk/ljfour/public/mathabx/dpi600/mathb10.pk" 1744457979 22096 5458881132387b53789b32158fdb19df ""
+  "C:/Users/nguye/AppData/Local/MiKTeX/fonts/pk/ljfour/public/mathabx/dpi600/matha5.pk" 1744467623 14948 4a51fd99f67c90b175bdbc363b2aa3b0 ""
+  "C:/Users/nguye/AppData/Local/MiKTeX/fonts/pk/ljfour/public/mathabx/dpi600/matha7.pk" 1744467625 18928 70de2af8dd38fcbb6f03f0f8371588b5 ""
   "C:/Users/nguye/AppData/Local/MiKTeX/fonts/pk/ljfour/public/mathabx/dpi600/mathx10.pk" 1744457975 30944 fa80a779f4f85ff362c7d6cd5ef62a3a ""
   "C:/Users/nguye/AppData/Local/MiKTeX/fonts/tfm/public/mathabx/matha10.tfm" 1744457874 1372 84a1ef28ab0d13263326e8d7d854aaa0 ""
   "C:/Users/nguye/AppData/Local/MiKTeX/fonts/tfm/public/mathabx/matha5.tfm" 1744457876 1376 3c8e757aef7f6d15ffd501faa8bb2960 ""
@@ -23,9 +24,9 @@
   "D:/compiler/latex/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233951854 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "D:/compiler/latex/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
   "D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
-  "D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
-  "D:/compiler/latex/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 870c211f62cb72718a00e353f14f254d ""
+  "D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "D:/compiler/latex/tex/generic/mathabx/mathabx.dcl" 1116399180 47027 3dbc67397f77c6c4915232a8ff46a778 ""
   "D:/compiler/latex/tex/latex/amscls/amsthm.sty" 1591023609 12594 0d51ac3a545aaaa555021326ff22a6cc ""
   "D:/compiler/latex/tex/latex/amsfonts/amsfonts.sty" 1358197772 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
@@ -43,9 +44,9 @@
   "D:/compiler/latex/tex/latex/jknappen/ursfs.fd" 930764886 548 cc4e3557704bfed27c7002773fad6c90 ""
   "D:/compiler/latex/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
   "D:/compiler/latex/tex/latex/mathabx/mathabx.sty" 1116399180 2145 5eaa46e7574d24ab999f2bebfa4b00a7 ""
-  "f:/mathwriting/test_latex/test.tex" 1744461258 21880 7228a43bfc6cb534e752f5d23c613e8d ""
-  "test.aux" 1744461260 33 dca2c25acf2dd0fcc68a5b8e6d3e57b9 "pdflatex"
-  "test.tex" 1744461258 21880 7228a43bfc6cb534e752f5d23c613e8d ""
+  "f:/mathwriting/test_latex/test.tex" 1744467989 449 9239e2f4ebdcec7c968f91680c659b23 ""
+  "test.aux" 1744467990 61 8ebd9d03e804256ca685e7d63c31987d "pdflatex"
+  "test.tex" 1744467989 449 9239e2f4ebdcec7c968f91680c659b23 ""
   (generated)
   "test.aux"
   "test.log"
