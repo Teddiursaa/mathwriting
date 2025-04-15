@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.19)  12 APR 2025 16:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.19)  13 APR 2025 10:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -23,7 +23,16 @@ File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
-) (D:\compiler\latex\tex/latex/amsmath\amsmath.sty
+) (D:\compiler\latex\tex/latex/extsizes\extsizes.sty
+Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
+
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(D:\compiler\latex\tex/latex/extsizes\size20.clo
+File: size20.clo 1999/11/11 NON-Standard LaTeX file (size option)
+)) (D:\compiler\latex\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2024/05/23 v2.17q AMS math features
 \@mathmargin=\skip51
 
@@ -393,40 +402,34 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (test.aux)
 \openout1 = `test.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/mathx/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Info: Command `\dddot' is already robust on input line 13.
-LaTeX Info: Command `\ddddot' is already robust on input line 13.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/mathx/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Info: Command `\dddot' is already robust on input line 14.
+LaTeX Info: Command `\ddddot' is already robust on input line 14.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
  (D:\compiler\latex\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
  (D:\compiler\latex\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 15.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 17.
  (D:\compiler\latex\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-
-Package amsmath Warning: Foreign command \over;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 15.
-
-
 
 [1
 
@@ -437,17 +440,17 @@ L3 programming layer <2024-09-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2439 strings out of 473899
- 31954 string characters out of 5739162
- 405704 words of memory out of 5000000
- 25326 multiletter control sequences out of 15000+600000
- 563401 words of font info for 56 fonts, out of 8000000 for 9000
+ 2494 strings out of 473899
+ 34723 string characters out of 5739162
+ 418241 words of memory out of 5000000
+ 25382 multiletter control sequences out of 15000+600000
+ 566341 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,5n,65p,297b,113s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\nguye\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi600\matha10.pk> <C:\Users\nguye\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi600\matha5.pk> <C:\Users\nguye\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi600\matha7.pk> <C:\Users\nguye\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi600\mathx10.pk><D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on test.pdf (1 page, 45170 bytes).
+ 56i,12n,65p,246b,113s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\nguye\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi1244\mathx10.pk> <C:\Users\nguye\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi1244\mathb12.pk> <C:\Users\nguye\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi1037\matha12.pk><D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/compiler/latex/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on test.pdf (1 page, 149718 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 217 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
