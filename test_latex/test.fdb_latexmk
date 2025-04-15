@@ -1,9 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1744534049.64556 "f:/mathwriting/test_latex/test.tex" "test.pdf" "test" 1744534054.5402 0
+["pdflatex"] 1744705220.38126 "f:/mathwriting/test_latex/test.tex" "test.pdf" "test" 1744705221.28913 0
   "C:/Users/nguye/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729343809 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/nguye/AppData/Local/MiKTeX/fonts/pk/ljfour/public/mathabx/dpi1037/matha12.pk" 1744534054 55864 e68b7a41fbb71c12b4851b8ac81b79d0 ""
-  "C:/Users/nguye/AppData/Local/MiKTeX/fonts/pk/ljfour/public/mathabx/dpi1244/mathb12.pk" 1744534052 52728 001089130c53c1c00c5626df9337ae98 ""
-  "C:/Users/nguye/AppData/Local/MiKTeX/fonts/pk/ljfour/public/mathabx/dpi1244/mathx10.pk" 1744534051 76784 4e9c62a40622b0efdca3eac0874c6fc8 ""
   "C:/Users/nguye/AppData/Local/MiKTeX/fonts/tfm/public/mathabx/matha12.tfm" 1744534014 1380 ceb7b5923e3abb0aafa2e35608b22d77 ""
   "C:/Users/nguye/AppData/Local/MiKTeX/fonts/tfm/public/mathabx/mathb12.tfm" 1744534016 1384 27aa7639e553886bbde4e93a7f0a21a7 ""
   "C:/Users/nguye/AppData/Local/MiKTeX/fonts/tfm/public/mathabx/mathx10.tfm" 1744457882 1520 88530e4e46ef1e4a7103f014512c50d2 ""
@@ -16,10 +14,7 @@
   "D:/compiler/latex/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "D:/compiler/latex/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "D:/compiler/latex/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
-  "D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
-  "D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
-  "D:/compiler/latex/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 870c211f62cb72718a00e353f14f254d ""
   "D:/compiler/latex/tex/generic/mathabx/mathabx.dcl" 1116399180 47027 3dbc67397f77c6c4915232a8ff46a778 ""
   "D:/compiler/latex/tex/latex/amscls/amsthm.sty" 1591023609 12594 0d51ac3a545aaaa555021326ff22a6cc ""
   "D:/compiler/latex/tex/latex/amsfonts/amsfonts.sty" 1358197772 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
@@ -39,9 +34,9 @@
   "D:/compiler/latex/tex/latex/jknappen/ursfs.fd" 930764886 548 cc4e3557704bfed27c7002773fad6c90 ""
   "D:/compiler/latex/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
   "D:/compiler/latex/tex/latex/mathabx/mathabx.sty" 1116399180 2145 5eaa46e7574d24ab999f2bebfa4b00a7 ""
-  "f:/mathwriting/test_latex/test.tex" 1744534048 4083 a6e421e65ca399863c163ff8632cf866 ""
-  "test.aux" 1744534050 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "test.tex" 1744534048 4083 a6e421e65ca399863c163ff8632cf866 ""
+  "f:/mathwriting/test_latex/test.tex" 1744705219 306 79ef54d282174c810709722e856a8bdb ""
+  "test.aux" 1744705221 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "test.tex" 1744705219 306 79ef54d282174c810709722e856a8bdb ""
   (generated)
   "test.aux"
   "test.log"

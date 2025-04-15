@@ -81,17 +81,7 @@ INPUT C:\Users\nguye\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathx10.tfm
 OUTPUT test.pdf
 INPUT C:\Users\nguye\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT test.aux
-INPUT C:\Users\nguye\AppData\Local\MiKTeX\fonts\pk\ljfour\public\mathabx\dpi1244\mathx10.pk
-INPUT C:\Users\nguye\AppData\Local\MiKTeX\fonts\pk\ljfour\public\mathabx\dpi1244\mathx10.pk
-INPUT C:\Users\nguye\AppData\Local\MiKTeX\fonts\pk\ljfour\public\mathabx\dpi1244\mathb12.pk
-INPUT C:\Users\nguye\AppData\Local\MiKTeX\fonts\pk\ljfour\public\mathabx\dpi1244\mathb12.pk
 INPUT C:\Users\nguye\AppData\Local\MiKTeX\fonts\pk\ljfour\public\mathabx\dpi1037\matha12.pk
 INPUT C:\Users\nguye\AppData\Local\MiKTeX\fonts\pk\ljfour\public\mathabx\dpi1037\matha12.pk
-INPUT D:\compiler\latex\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT D:\compiler\latex\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT D:\compiler\latex\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT D:\compiler\latex\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT D:\compiler\latex\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT D:\compiler\latex\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT D:\compiler\latex\fonts\type1\public\amsfonts\symbols\msbm10.pfb
-INPUT D:\compiler\latex\fonts\type1\public\amsfonts\symbols\msbm10.pfb
