@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.19)  15 APR 2025 10:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.19)  15 APR 2025 22:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -430,27 +430,1087 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 16.
  (D:\compiler\latex\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
+f:/mathwriting/test_latex/test.tex:28: Undefined control sequence.
+<recently read> \im 
+                    
+l.28 $\im
+         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:32: Missing $ inserted.
+<inserted text> 
+                $
+l.32 $\subsection
+                 $
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
 
 [1
 
-{C:/Users/nguye/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (test.aux)
- ***********
-LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-09-10>
- ***********
- ) 
-Here is how much of TeX's memory you used:
- 2491 strings out of 473899
- 34698 string characters out of 5739162
- 405241 words of memory out of 5000000
- 25379 multiletter control sequences out of 15000+600000
- 566341 words of font info for 66 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 56i,5n,65p,246b,113s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\nguye\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi1037\matha12.pk><D:/compiler/latex/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on test.pdf (1 page, 10403 bytes).
-PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+{C:/Users/nguye/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+f:/mathwriting/test_latex/test.tex:32: Missing $ inserted.
+<inserted text> 
+                $
+l.32 $\subsection$
+                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+
+
+[2]
+f:/mathwriting/test_latex/test.tex:38: Missing number, treated as zero.
+<to be read again> 
+                   $
+l.38 $\linethickness$
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+f:/mathwriting/test_latex/test.tex:38: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   $
+l.38 $\linethickness$
+                     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+LaTeX Font Warning: Command \LARGE invalid in math mode on input line 40.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+<recently read> }
+                 
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+\text@ ...e {\textdef@ \displaystyle \f@size {#1}}
+                                                  {\textdef@ \textstyle \f@s...
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+<recently read> }
+                 
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+\text@ ...xtstyle \f@size {\firstchoice@false #1}}
+                                                  {\textdef@ \textstyle \sf@...
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+<recently read> }
+                 
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+\text@ ...tstyle \sf@size {\firstchoice@false #1}}
+                                                  {\textdef@ \textstyle \ssf...
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+<recently read> }
+                 
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
+                                                  
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+\text@ ...style \ssf@size {\firstchoice@false #1}}
+                                                  \check@mathfonts }
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:42: Extra }, or forgotten $.
+\text@ ...firstchoice@false #1}}\check@mathfonts }
+                                                  
+l.42 $\textit$
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:44: Use of \put  doesn't match its definition.
+l.44 $\put$
+           
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+f:/mathwriting/test_latex/test.tex:46: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.46 $\hline
+            $
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+f:/mathwriting/test_latex/test.tex:46: Missing $ inserted.
+<inserted text> 
+                $
+l.46 $\hline
+            $
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+f:/mathwriting/test_latex/test.tex:46: Missing } inserted.
+<inserted text> 
+                }
+l.46 $\hline
+            $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:46: You can't use `\hrule' here except with leaders.
+<recently read> \hrule 
+                       
+l.46 $\hline
+            $
+To put a horizontal rule in an hbox or an alignment,
+you should use \leaders or \hrulefill (see The TeXbook).
+
+f:/mathwriting/test_latex/test.tex:46: Missing number, treated as zero.
+<to be read again> 
+                   \futurelet 
+l.46 $\hline
+            $
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+f:/mathwriting/test_latex/test.tex:46: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \futurelet 
+l.46 $\hline
+            $
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+f:/mathwriting/test_latex/test.tex:48: Undefined control sequence.
+l.48 $\D
+        $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:50: Undefined control sequence.
+l.50 $\gau
+          $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:52: Extra }, or forgotten $.
+\rlap  #1->\hb@xt@ \z@ {#1\hss }
+                                
+l.52 $\rlap$
+            
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:56: Missing $ inserted.
+<inserted text> 
+                $
+l.56 $\arccos
+             $
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+f:/mathwriting/test_latex/test.tex:62: Undefined control sequence.
+<recently read> \partialq 
+                          
+l.62 $\partialq
+               $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:64: Undefined control sequence.
+<recently read> \tsum 
+                      
+l.64 $\tsum
+           $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:68: Undefined control sequence.
+<recently read> \tidotsint 
+                           
+l.68 $\tidotsint
+                $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:72: Undefined control sequence.
+<recently read> \dprod 
+                       
+l.72 $\dprod
+            $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:80: Undefined control sequence.
+<recently read> \rmB 
+                     
+l.80 $\rmB
+          $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:82: Undefined control sequence.
+<recently read> \stackunder 
+                            
+l.82 $\stackunder
+                 $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:84: Improper \spacefactor.
+<recently read> \spacefactor 
+                             
+l.84 $\'$
+         
+You can refer to \spacefactor only in horizontal mode;
+you can refer to \prevdepth only in vertical mode; and
+neither of these is meaningful inside \write. So
+I'm forgetting what you said and using zero instead.
+
+f:/mathwriting/test_latex/test.tex:84: Extra }, or forgotten $.
+\add@accent ... \accent@spacefactor \spacefactor }
+                                                  \let \maybe@load@fontshape...
+l.84 $\'$
+         
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+f:/mathwriting/test_latex/test.tex:84: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.84 $\'$
+         
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+f:/mathwriting/test_latex/test.tex:84: Missing { inserted.
+<to be read again> 
+                   $
+l.84 $\'$
+         
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+f:/mathwriting/test_latex/test.tex:84: Missing } inserted.
+<inserted text> 
+                }
+l.84 $\'$
+         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:86: Missing } inserted.
+<inserted text> 
+                }
+l.86 $
+      \be$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:86: Undefined control sequence.
+l.86 $\be
+         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:88: Missing $ inserted.
+<inserted text> 
+                $
+l.88 $\right
+            $
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+f:/mathwriting/test_latex/test.tex:88: Missing delimiter (. inserted).
+<to be read again> 
+                   $
+l.88 $\right$
+             
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+f:/mathwriting/test_latex/test.tex:88: Extra \right.
+<to be read again> 
+                   $
+l.88 $\right$
+             
+I'm ignoring a \right that had no matching \left.
+
+f:/mathwriting/test_latex/test.tex:92: Undefined control sequence.
+<recently read> \ZZ 
+                    
+l.92 $\ZZ
+         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:94: Undefined control sequence.
+<recently read> \n 
+                   
+l.94 $\n
+        $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:97: Missing } inserted.
+<inserted text> 
+                }
+l.97 \pagebreak
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:97: Missing } inserted.
+<inserted text> 
+                }
+l.97 \pagebreak
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:98: Missing } inserted.
+<inserted text> 
+                }
+l.98 $
+      \mathbb$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:102: Missing $ inserted.
+<inserted text> 
+                $
+l.102 $\subset
+              $
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+f:/mathwriting/test_latex/test.tex:106: Undefined control sequence.
+<recently read> \cth 
+                     
+l.106 $\cth
+           $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:108: Missing } inserted.
+<inserted text> 
+                }
+l.108 $\mathtt$
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:108: Missing } inserted.
+<inserted text> 
+                }
+l.108 $\mathtt$
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:110: Missing } inserted.
+<inserted text> 
+                }
+l.110 $
+       \bigvee$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:110: Missing $ inserted.
+<inserted text> 
+                $
+l.110 $\bigvee
+              $
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+f:/mathwriting/test_latex/test.tex:116: Missing } inserted.
+<inserted text> 
+                }
+l.116 $\mathnormal$
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:118: Undefined control sequence.
+<recently read> \cD 
+                    
+l.118 $\cD
+          $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:122: Missing { inserted.
+<to be read again> 
+                   $
+l.122 $\mathord$
+                
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+f:/mathwriting/test_latex/test.tex:122: Missing } inserted.
+<inserted text> 
+                }
+l.122 $\mathord$
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:128: Undefined control sequence.
+<recently read> \labbel 
+                        
+l.128 $\labbel
+              $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:130: Undefined control sequence.
+<recently read> \Ha 
+                    
+l.130 $\Ha
+          $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:132: Missing $ inserted.
+<inserted text> 
+                $
+l.132 $\bordermatrix$
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+f:/mathwriting/test_latex/test.tex:134: Undefined control sequence.
+l.134 $\ope
+           $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:136: Undefined control sequence.
+l.136 $\Z
+         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:138: Missing $ inserted.
+<inserted text> 
+                $
+l.138 $\varphi
+              $
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+f:/mathwriting/test_latex/test.tex:142: Undefined control sequence.
+<recently read> \Tr 
+                    
+l.142 $\Tr
+          $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:144: Undefined control sequence.
+<recently read> \skipthis 
+                          
+l.144 $\skipthis
+                $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \d invalid in math mode on input line 152.
+
+f:/mathwriting/test_latex/test.tex:152: Missing $ inserted.
+<inserted text> 
+                $
+l.152 $\d$
+          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+f:/mathwriting/test_latex/test.tex:154: Missing $ inserted.
+<inserted text> 
+                $
+l.154 $\alpha
+             $
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+f:/mathwriting/test_latex/test.tex:162: LaTeX Error: Command \scshape invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 $\scshape
+               $
+Please define a new math alphabet
+if you want to use a special font in math mode. 
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
+(Font)              using `OT1/cmr/m/sc' instead on input line 162.
+
+f:/mathwriting/test_latex/test.tex:164: Undefined control sequence.
+<recently read> \diff 
+                      
+l.164 $\diff
+            $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:166: Undefined control sequence.
+<recently read> \deltax 
+                        
+l.166 $\deltax
+              $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:168: Undefined control sequence.
+<recently read> \llra 
+                      
+l.168 $\llra
+            $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:172: Undefined control sequence.
+<recently read> \I 
+                   
+l.172 $\I
+         $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:174: Undefined control sequence.
+<recently read> \pb 
+                    
+l.174 $\pb
+          $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:180: Undefined control sequence.
+<recently read> \Omeg 
+                      
+l.180 $\Omeg
+            $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:182: Undefined control sequence.
+<recently read> \arow 
+                      
+l.182 $\arow
+            $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:184: Undefined control sequence.
+<recently read> \dsum 
+                      
+l.184 $\dsum
+            $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:186: Undefined control sequence.
+<recently read> \nn 
+                    
+l.186 $\nn
+          $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:190: Undefined control sequence.
+<recently read> \barr 
+                      
+l.190 $\barr
+            $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:192: Undefined control sequence.
+<recently read> \fmfv 
+                      
+l.192 $\fmfv
+            $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:194: You can't use `\eqno' in math mode.
+\veqno ->\@kernel@eqno 
+                       \aftergroup \ignorespaces 
+l.194 $\]
+         $
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+f:/mathwriting/test_latex/test.tex:194: LaTeX Error: \begin{document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 $\]
+         $
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+f:/mathwriting/test_latex/test.tex:194: Missing $ inserted.
+<inserted text> 
+                $
+l.194 $\]
+         $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:194: Missing } inserted.
+<inserted text> 
+                }
+l.194 $\]
+         $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:194: Missing } inserted.
+<inserted text> 
+                }
+l.194 $\]
+         $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:194: Missing $ inserted.
+<inserted text> 
+                $
+l.194 $\]
+         $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:194: Missing } inserted.
+<inserted text> 
+                }
+l.194 $\]
+         $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:194: Missing } inserted.
+<inserted text> 
+                }
+l.194 $\]
+         $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:194: Missing } inserted.
+<inserted text> 
+                }
+l.194 $\]
+         $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:194: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.194 $\]
+         $
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+f:/mathwriting/test_latex/test.tex:194: Missing } inserted.
+<inserted text> 
+                }
+l.194 $\]
+         $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:194: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.194 $\]
+         $
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+f:/mathwriting/test_latex/test.tex:194: Missing } inserted.
+<inserted text> 
+                }
+l.194 $\]
+         $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:194: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.194 $\]
+         $
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+f:/mathwriting/test_latex/test.tex:194: Missing } inserted.
+<inserted text> 
+                }
+l.194 $\]
+         $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:194: Missing } inserted.
+<inserted text> 
+                }
+l.194 $\]
+         $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:194: Missing $ inserted.
+<inserted text> 
+                $
+l.194 $\]
+         $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+f:/mathwriting/test_latex/test.tex:194: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.194 $\]
+         $
+Things are pretty mixed up, but I think the worst is over.
+
+f:/mathwriting/test_latex/test.tex:196: Undefined control sequence.
+l.196 $\sltwoc
+              $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:198: Undefined control sequence.
+l.198 $\II
+          $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+f:/mathwriting/test_latex/test.tex:204: You can't use `\eqno' in math mode.
+\@@eqno ->\@kernel@eqno 
+                        \aftergroup \ignorespaces 
+l.204 $\eqno
+            $
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 2595 strings out of 473899
+ 35801 string characters out of 5739162
+ 408241 words of memory out of 5000000
+ 25464 multiletter control sequences out of 15000+600000
+ 582639 words of font info for 125 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,19n,65p,246b,187s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+f:/mathwriting/test_latex/test.tex:204:  ==> Fatal error occurred, no output PDF file produced!

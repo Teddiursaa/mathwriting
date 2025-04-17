@@ -2,8 +2,8 @@
   "citation": "",
   "description": "",
   "features": {
-    "label": {
-      "dtype": "null",
+    "labels": {
+      "dtype": "string",
       "_type": "Value"
     }
   },
