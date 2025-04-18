@@ -4,8 +4,11 @@
   "features": {
     "embeddings": {
       "feature": {
-        "dtype": "int64",
-        "_type": "Value"
+        "feature": {
+          "dtype": "uint8",
+          "_type": "Value"
+        },
+        "_type": "Sequence"
       },
       "_type": "Sequence"
     }

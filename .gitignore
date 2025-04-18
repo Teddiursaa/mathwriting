@@ -1,3 +1,4 @@
 venv/
 56198/
-test_latex/
+testlatex/
+transformer/model_sav
