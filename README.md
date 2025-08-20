@@ -196,6 +196,14 @@ The model is evaluated on LaTeX formula reconstruction tasks with metrics includ
 - Sequence-level accuracy for complete formula correctness
 - BLEU scores for sequence similarity measurement
 
+### Current Results
+
+| Metric | Score | Description |
+|--------|-------|-------------|
+| **Token Accuracy** | 90% | Percentage of correctly predicted individual LaTeX tokens |
+| **Sequence Accuracy** | 10% | Percentage of completely correct formula reconstructions |
+| **BLEU Score** | 0.84 | Similarity measure between predicted and reference sequences |
+
 The goal is to accurately reconstruct the original LaTeX source code from rendered mathematical formula images.
 
 ## Future Improvements
